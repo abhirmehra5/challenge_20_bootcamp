@@ -1,6 +1,6 @@
-# challenge_20_bootcamp
+## challenge_20_bootcamp
 
-## Smart Contract with Solidity
+Smart Contract with Solidity
 
 # setAccounts
 <img width="1440" alt="setAccounts" src="https://user-images.githubusercontent.com/107518702/200120073-d8c4a078-e389-491a-b200-9c8320e10ee8.png">
